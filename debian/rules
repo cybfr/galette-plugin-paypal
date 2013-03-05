@@ -6,4 +6,4 @@
 override_dh_install:
 	dh_install
 	# Cleanup useless stuff
-	rm -rf debian/galette/usr/share/galette/plugins/galette-plugin-paypal/lang/*.py
+	rm -rf debian/galette-plugin-paypal/usr/share/galette/plugins/galette-plugin-paypal/lang/*.py
