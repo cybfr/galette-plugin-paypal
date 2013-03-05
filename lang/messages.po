@@ -1,0 +1,209 @@
+#: ../paypal_form.php:75
+msgid "Paypal payment"
+msgstr ""
+
+#: ../templates/default/paypal_preferences.tpl:53
+msgid "red"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:43
+msgid "Select an payment reason"
+msgstr ""
+
+#: ../templates/default/paypal_preferences.tpl:10
+msgid "Paypal preferences"
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:37 ../templates/default/paypal_form.tpl:77
+#: ../templates/default/paypal_preferences.tpl:23 ../templates/default/paypal_success.tpl:21
+msgid "Amount"
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:25
+msgid "Descendant"
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:55
+msgid "duplicate"
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:74
+msgid "Request"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:34
+msgid "Go back to %s Website to complete your inscription."
+msgstr ""
+
+#: ../templates/default/paypal_success.tpl:13
+msgid "Payment status"
+msgstr ""
+
+#: ../paypal_preferences.php:79
+msgid "Paypal Settings"
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:45
+msgid "Pages:"
+msgstr ""
+
+#: ../templates/default/paypal_preferences.tpl:14
+msgid "Enter here one of your Paypal ID or email adress associated within your paypal account."
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:88
+msgid "Show/hide full request"
+msgstr ""
+
+#: ../paypal_preferences.php:73
+msgid "Paypal preferences has been saved."
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:101
+msgid "You have to select an option"
+msgstr ""
+
+#: ../templates/default/menu.tpl:4
+msgid "Payment form"
+msgstr ""
+
+#: ../templates/default/paypal_success.tpl:5
+msgid "Label"
+msgstr ""
+
+#: ../templates/default/paypal_success.tpl:2
+msgid "Your paypal payment for was successfull. Some details are shown below:"
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:34
+msgid "Subject"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:41
+msgid "Payment reason"
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:78
+msgid "logs are empty"
+msgstr ""
+
+#: ../templates/default/paypal_success.tpl:1
+msgid "Paypal payment success"
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:11
+msgid "Change"
+msgstr ""
+
+#: ../templates/default/paypal_preferences.tpl:53
+msgid "NB : The mandatory fields are in"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:66
+msgid "No predefined amounts have been configured yet."
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:23
+msgid "Ascendent"
+msgstr ""
+
+#: ../templates/default/menu.tpl:7
+msgid "Paypal Preferences"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:3 ../templates/default/paypal_preferences.tpl:4
+msgid "- ERROR -"
+msgstr ""
+
+#: ../templates/default/paypal_success.tpl:9
+msgid "Payment date"
+msgstr ""
+
+#: ../templates/default/paypal_preferences.tpl:24
+msgid "Inactive"
+msgstr ""
+
+#: ../templates/default/paypal_preferences.tpl:13
+msgid "Paypal identifier:"
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:7
+msgid "Records per page:"
+msgstr ""
+
+#: ../templates/default/paypal_preferences.tpl:22
+msgid "Cotisation type"
+msgstr ""
+
+#: ../templates/default/paypal_preferences.tpl:51
+msgid "Save"
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:31
+msgid "Name"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:50 ../templates/default/paypal_form.tpl:62
+msgid "annual fee"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:107
+msgid "The amount you've entered is lower than the minimum amount for the selected option.\\nPlease choose another option or change the amount."
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:11
+msgid "Predefined amounts cannot be loaded, that is not a critical error."
+msgstr ""
+
+#: ../templates/default/menu.tpl:2
+msgid "Paypal"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:5
+msgid "Our apologies for the annoyance :("
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:39
+msgid "Enter payment reason"
+msgstr ""
+
+#: ../paypal_history.php:89 ../templates/default/menu.tpl:6
+msgid "Paypal History"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:61
+msgid "Payment reason:"
+msgstr ""
+
+#: ../templates/default/paypal_preferences.tpl:46
+msgid "Error: no predefined amounts found."
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:83
+msgid "Validate"
+msgstr ""
+
+#: ../paypal_preferences.php:75
+msgid "An error occured saving paypal preferences :("
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:4
+msgid "<strong>Payment coult not work</strong>: An error occured (that has been logged) while loading Paypal preferences from database.<br/>Please report the issue to the staff."
+msgstr ""
+
+#: ../templates/default/paypal_history.tpl:20
+msgid "Date"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:10
+msgid "- WARNING -"
+msgstr ""
+
+#: ../templates/default/paypal_success.tpl:17
+msgid "Payment type"
+msgstr ""
+
+#: ../templates/default/paypal_form.tpl:72
+msgid "WARNING: If you enter an amount below, make sure that it is not lower than the amount of the option you've selected."
+msgstr ""
+

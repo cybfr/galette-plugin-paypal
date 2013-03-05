@@ -1,0 +1,16 @@
+* 2012-10-06 - 1.1
+- Galette 0.7.1 compatible
+
+* xxx-xx-xx - 1.0.3
+- Default amount is no longer hardcoded
+
+* 2011-11-20 - 1.0.2
+- Staff members can now change amounts and (in)actives contributions types, but not the paypal ID
+- Displays a message when preferences are stored
+- Cannot unset all inactives types
+
+* 2011-11-19 - 1.0.1
+- Update i18n
+
+* 2011-10-24 - 1.0
+- First stable release
