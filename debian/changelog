@@ -1,0 +1,5 @@
+galette-plugin-paypal (1.2.1-1) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Mon, 04 Mar 2013 21:21:34 +0100
