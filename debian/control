@@ -15,6 +15,6 @@ Description: Paypal module for Galette
  Galette is a web application for French-speaking associations that
  want to manage their list of members online.
  .
- This plugin makes it possible for members to to renew their membership by
+ This plugin makes it possible for members to renew their membership by
  paying with Paypal. Online donations for the association are also possible
  with this plugin.
