@@ -1,3 +1,9 @@
+galette-plugin-paypal (1.4.2-1) UNRELEASED; urgency=medium
+
+  * Imported Upstream version 1.4.2
+
+ -- François-Régis Vuillemin <frv-debian@miradou.com>  Fri, 31 Jan 2014 09:55:34 +0100
+
 galette-plugin-paypal (1.4.1-1) unstable; urgency=low
 
   * New upstream release.
