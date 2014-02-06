@@ -1,5 +1,5 @@
 *.php usr/share/galette/plugins/galette-plugin-paypal/
-classes usr/share/galette/plugins/galette-plugin-paypal/
+# classes usr/share/galette/plugins/galette-plugin-paypal
 lang usr/share/galette/plugins/galette-plugin-paypal/
 sql usr/share/galette/plugins/galette-plugin-paypal/
 templates usr/share/galette/plugins/galette-plugin-paypal/

@@ -1,10 +1,11 @@
 Source: galette-plugin-paypal
 Section: web
 Priority: optional
-Maintainer: Raphaël Hertzog <hertzog@debian.org>
+Maintainer: François-Régis Vuillemin <frv-debian@miradou.com>
+Uploaders: Raphaël Hertzog <hertzog@debian.org>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.4
-Homepage: http://galette.tuxfamily.org
+Standards-Version: 3.9.5
+Homepage: http://galette.eu
 Vcs-Git: git://anonscm.debian.org/collab-maint/galette-plugin-paypal.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/galette-plugin-paypal.git;a=summary
 
